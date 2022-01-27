@@ -48,10 +48,10 @@ Here are some ideas to get you started:
         <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="https://dev.to/allangrds" target="_blank">
-        <img alt="Medium" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+        <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" />
     </a>
-    <a href="https://blog.devzera.com.br/" target="_blank">
-        <img alt="Medium" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.allanramos.com.br/" target="_blank">
+        <img alt="Personal Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logoColor=white" />
     </a>
 </p>
 
