@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🔧 Currently working on...
 
 - [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
-
+- [pokedex](https://github.com/allangrds/pokedex)
 
 ## 🔧 Worked on...
 
