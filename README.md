@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## 🔧 Currently working on...
 
-- [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
 - [pokedex](https://github.com/allangrds/pokedex)
+- [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
 
 ## 🔧 Worked on...
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - [gerador-de-imagem-igreja](https://github.com/allangrds/gerador-de-imagem-igreja): image generator for churches to use on social networks
 - [pagarme-payment-service-provider](https://github.com/allangrds/pagarme-payment-service-provider): implementation of pagar.me back-end challange
 - [hashlab-front-end-anticipation](https://github.com/allangrds/hashlab-front-end-anticipation): implementation of hashlab front-end challange
+- [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
 
 ## 📖 Currently learning...
 - Algoritms
