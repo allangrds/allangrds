@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ## 🔧 Currently working on...
 
 - [pokedex](https://github.com/allangrds/pokedex)
-- [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
 - [ts-vite-react-boilerplate](https://github.com/allangrds/ts-vite-react-boilerplate)
-- [laxus-gatsby-blog](https://github.com/allangrds/laxus-gatsby-blog)
+- [laxus-nextjs-blog](https://github.com/allangrds/laxus-nextjs-blog)
+- [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
 
 ## 🔧 Worked on...
 
