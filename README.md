@@ -56,6 +56,9 @@ Here are some ideas to get you started:
     <a href="https://www.allanramos.com.br/" target="_blank">
         <img alt="Personal Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logoColor=white" />
     </a>
+    <a href="https://pt.stackoverflow.com/users/14478/allan-ramos" target="_blank">
+        <img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+    </a>
 </p>
 
 
