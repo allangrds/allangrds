@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
 
 ## 📖 Currently learning...
-- Clean Architecture and DDD
+- NestJs, Clean Architecture and DDD
 
 ## 🛰️ Where to find me
 
