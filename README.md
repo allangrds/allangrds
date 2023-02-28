@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ## 🔧 Currently working on...
 
 - [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
+- [mashgin-full-stack-test](https://github.com/allangrds/mashgin-full-stack-test)
+
 
 ## 🔧 Worked on...
 
