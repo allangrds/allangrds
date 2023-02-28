@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 ## 🔧 Currently working on...
 
-- [pokedex](https://github.com/allangrds/pokedex)
-- [ts-vite-react-boilerplate](https://github.com/allangrds/ts-vite-react-boilerplate)
-- [laxus-nextjs-blog](https://github.com/allangrds/laxus-nextjs-blog)
 - [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
 
 ## 🔧 Worked on...
 
+- [ts-vite-react-boilerplate](https://github.com/allangrds/ts-vite-react-boilerplate)
+- [laxus-nextjs-blog](https://github.com/allangrds/laxus-nextjs-blog)
 - [minha-iasd](https://github.com/allangrds/minha-iasd): static site build with svelte for Seventh-day Adventist churches
 - [gerador-de-imagem-igreja](https://github.com/allangrds/gerador-de-imagem-igreja): image generator for churches to use on social networks
 - [pagarme-payment-service-provider](https://github.com/allangrds/pagarme-payment-service-provider): implementation of pagar.me back-end challange
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 - [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
 
 ## 📖 Currently learning...
-- Algoritms
+- Clean Architecture and DDD
 
 ## 🛰️ Where to find me
 
