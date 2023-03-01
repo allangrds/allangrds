@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - [minha-iasd](https://github.com/allangrds/minha-iasd): static site build with svelte for Seventh-day Adventist churches
 - [gerador-de-imagem-igreja](https://github.com/allangrds/gerador-de-imagem-igreja): image generator for churches to use on social networks
 - [pagarme-payment-service-provider](https://github.com/allangrds/pagarme-payment-service-provider): implementation of pagar.me back-end challange
-- [hashlab-front-end-anticipation](https://github.com/allangrds/hashlab-front-end-anticipation): implementation of hashlab front-end challange
 - [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
 
 ## 📖 Currently learning...
