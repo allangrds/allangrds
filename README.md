@@ -28,16 +28,6 @@ Here are some ideas to get you started:
 - [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
 - [mashgin-full-stack-test](https://github.com/allangrds/mashgin-full-stack-test)
 
-
-## 🔧 Worked on...
-
-- [ts-vite-react-boilerplate](https://github.com/allangrds/ts-vite-react-boilerplate): a React boilerplate with Typescript, Eslint, Prettier, Github Action(build, lint, commitlint, test), Storybook, Jest, Testing Library, Playwright, Chakra UI, React Query, i18n, MSW and React Router DOM.
-- [laxus-nextjs-blog](https://github.com/allangrds/laxus-nextjs-blog): blog template using Next.js and MDX
-- [minha-iasd](https://github.com/allangrds/minha-iasd): static site build with svelte for Seventh-day Adventist churches
-- [gerador-de-imagem-igreja](https://github.com/allangrds/gerador-de-imagem-igreja): image generator for churches to use on social networks
-- [pagarme-payment-service-provider](https://github.com/allangrds/pagarme-payment-service-provider): implementation of pagar.me back-end challange
-- [problem-solving](https://github.com/allangrds/https://github.com/allangrds/problem-solving): Resolution for Hackerrank exercises
-
 ## 📖 Currently learning...
 - NestJs, Clean Architecture and DDD
 
