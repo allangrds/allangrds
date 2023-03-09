@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🔧 Currently working on...
 
 - [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
-- [mashgin-full-stack-test](https://github.com/allangrds/mashgin-full-stack-test)
+- [checkout-order-nestjs-nextjs](https://github.com/allangrds/checkout-order-nestjs-nextjs)
 
 ## 📖 Currently learning...
 - NestJs, Clean Architecture and DDD
