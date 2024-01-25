@@ -1,5 +1,3 @@
-
-
 ### Olá! 👋 🇧🇷
 
 Prazer, sou Allan 😄. Sou programador há 6 anos, cristão, adventista, leitor e gamer nas horas vagas. Sou também o criador da plataforma [#empregosparasabatistas](http://empregosparasabatistas.com.br), uma plataforma com empregos que respeitem o dia de sábado como guarda.
@@ -48,11 +46,11 @@ Prazer, sou Allan 😄. Sou programador há 6 anos, cristão, adventista, leitor
 
 #### 🔧 Currently working on...
 
-- [pagarme-multi-credit-card](https://github.com/allangrds/pagarme-multi-credit-card)
+- 
 
 #### 📖 Currently learning...
 
-- NestJs, Clean Architecture and DDD
+- 
 
 
 #### 🌍 Onde me encontrar
