@@ -42,6 +42,9 @@ Here are some ideas to get you started:
     <a href="https://dev.to/allangrds" target="_blank">
         <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" />
     </a>
+    <a href="https://www.tabnews.com.br/allangrds/conteudos/1" target="_blank">
+        <img alt="Stackoverflow" src="https://img.shields.io/badge/Tabnews-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+    </a>
     <a href="https://www.allanramos.com.br/" target="_blank">
         <img alt="Personal Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logoColor=white" />
     </a>
