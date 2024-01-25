@@ -2,7 +2,7 @@
 
 ### Olá! 👋 🇧🇷
 
-Prazer, sou Allan 😄. Sou programador há 6 anos, cristão, adventista, leitor e gamer nas horas vagas. Sou também o criador da plataforma [#empregosparasabatistas](http://empregosparasabatistas.com.br), uma plataforma com empregos que respeitem o dia de sábado como guarda.
+Prazer, sou Allan 😄. Sou programador há 6 anos, cristão, adventista do sétimo dia, leitor e gamer nas horas vagas. Sou também o criador da plataforma [#empregosparasabatistas](http://empregosparasabatistas.com.br), uma plataforma com empregos que respeitem o dia de sábado como guarda.
 
 #### 🔨 Eu trabalho com...
 
@@ -68,7 +68,7 @@ Prazer, sou Allan 😄. Sou programador há 6 anos, cristão, adventista, leitor
 
 ### Hello! 👋 🇺🇸
 
-Nice to meet you, I'm Allan 😄. I've been a programmer for 6 years, christian, adventist, reader and gamer in my spare time. I am also the creator of the platform [#empregosparasabatistas](http://empregosparasabatistas.com.br), a platform with jobs that respect Saturday as a guard.
+Nice to meet you, I'm Allan 😄. I've been a programmer for 6 years, christian, seventh day adventist, reader and gamer in my spare time. I am also the creator of the platform [#empregosparasabatistas](http://empregosparasabatistas.com.br), a platform with jobs that respect Saturday as a guard.
 
 #### 🔨 I work with...
 
